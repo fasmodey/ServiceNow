@@ -1,0 +1,20 @@
+{
+	"components": {
+	    "x-526902-incident-list": {
+	        "innerComponents": [
+				"now-template-card",
+				"now-template-card-attachment",
+				"now-template-card-omnichannel",
+				"now-template-card-assist",
+				"ui-effect-http"
+			],
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "IncidentList",
+				"icon": "chat-fill",
+				"description": "Incident List component task 4"
+			}
+	    }
+	},
+	"scopeName": "x_526902_test_in_0"
+}
