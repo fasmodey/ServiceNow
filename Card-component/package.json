@@ -1,0 +1,33 @@
+{
+	"name": "@test/card-list",
+	"version": "0.0.1",
+	"private": false,
+	"description": "Card-list component",
+	"keywords": [
+		"ServiceNow",
+		"Now Experience UI Component",
+		"@test/card-list"
+	],
+	"readme": "./README.md",
+	"engines": {
+		"node": ">=8.6.0",
+		"npm": ">=5.3.0"
+	},
+	"module": "src/index.js",
+	"dependencies": {
+		"@servicenow/cli-archetype": "17.0.3",
+		"@servicenow/cli-component-archetype": "17.0.3",
+		"@servicenow/library-translate": "orlando",
+		"@servicenow/now-template-card": "^17.0.1",
+		"@servicenow/sass-kit": "orlando",
+		"@servicenow/sass-theme": "orlando",
+		"@servicenow/ui-core": "orlando",
+		"@servicenow/ui-renderer-snabbdom": "orlando",
+		"add": "^2.0.6",
+		"tectonic": "^2.1.2"
+	},
+	"devDependencies": {
+		"@servicenow/cli-archetype-dev": "17.0.3",
+		"@servicenow/cli-component-archetype-dev": "17.0.3"
+	}
+}

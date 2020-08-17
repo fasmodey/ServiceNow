@@ -1,0 +1,19 @@
+{
+	"components": {
+	    "x-526902-card-list": {
+	        "innerComponents": [
+				"now-template-card",
+				"now-template-card-attachment",
+				"now-template-card-omnichannel",
+				"now-template-card-assist"
+			],
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "CardList",
+				"icon": "chat-fill",
+				"description": "Card list component task 3"
+			}
+	    }
+	},
+	"scopeName": "x_526902_test_ca_0"
+}
