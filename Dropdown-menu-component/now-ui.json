@@ -1,0 +1,22 @@
+{
+	"components": {
+	    "x-526902-dropdown-menu": {
+	        "innerComponents": [
+				"now-template-card",
+				"now-template-card-attachment",
+				"now-template-card-omnichannel",
+				"now-template-card-assist",
+				"ui-effect-http",
+				"now-modal",
+				"now-label-value"
+			],
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "DropdownMenu",
+				"icon": "chat-fill",
+				"description": "Dropdown menu component task 5"
+			}
+	    }
+	},
+	"scopeName": "x_526902_test_dr_0"
+}

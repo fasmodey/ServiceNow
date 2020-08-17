@@ -1,0 +1,13 @@
+@import '@servicenow/sass-kit/host';
+
+.filter-wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 300px);
+    grid-template-rows: 200px;
+    align-items: baseline;
+}
+
+.dropdown-title {
+    font-size: 26px;
+    font-weight: bold;
+}

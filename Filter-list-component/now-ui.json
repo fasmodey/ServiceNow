@@ -1,0 +1,23 @@
+{
+	"components": {
+	    "x-526902-filter-list": {
+	        "innerComponents": [
+				"now-template-card",
+				"now-template-card-attachment",
+				"now-template-card-omnichannel",
+				"now-template-card-assist",
+				"ui-effect-http",
+				"now-modal",
+				"now-label-value",
+				"now-dropdown"
+			],
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "FilteredData",
+				"icon": "chat-fill",
+				"description": "Filtered data component task 6"
+			}
+	    }
+	},
+	"scopeName": "x_526902_test_fi_0"
+}
