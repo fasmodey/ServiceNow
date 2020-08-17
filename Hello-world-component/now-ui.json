@@ -1,0 +1,14 @@
+{
+	"components": {
+	    "x-526902-hello-world": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "HelloWorldTask",
+				"icon": "bundle-fill",
+				"description": "Hello world component task 2"
+			}
+	    }
+	},
+	"scopeName": "x_526902_test_he_0"
+}

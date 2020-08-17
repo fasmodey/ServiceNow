@@ -1,0 +1,12 @@
+@import '@servicenow/sass-kit/host';
+
+.page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    &__title {
+        color: rgb(59, 59, 105);
+    }
+}
